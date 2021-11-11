@@ -1,3 +1,4 @@
 Tutorial to Use the tsnecuda library on Google Colab
 
-- [The Detailed Article in English]{https://inside-machinelearning.com/en/these-ai-will-make-quality-music-for-you-and-its-free/}
+- [Read the Detailed Article in english](https://inside-machinelearning.com/en/use-tsne-cuda-on-google-colab/)
+- [Lire l'article détaillé en français](https://inside-machinelearning.com/tsne-cuda-sur-colab/)
